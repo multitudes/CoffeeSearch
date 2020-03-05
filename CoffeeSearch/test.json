@@ -1,0 +1,204 @@
+    [
+      {
+            "coffeeShop": "19grams Coffee Roasters",
+            "coffeeName": "Las Lajas Black Diamond",
+            "category": "Filter Coffee",
+            "preparation": "AeroPress, French Press, Chemex, Filter Coffee",
+            "region": "Central America",
+            "flavour": "",
+            "product_link": "https://19grams.coffee/en/coffee/filter/costa-rica-las-lajas-black-diamond",
+            "image_small": "https://19grams.coffee/data/drive/2020/02/_cache/e0f860aeab072d107286e7b76378c81b_0987b5d85748f720e0f64e06b4fe072c.jpg"
+          },
+          {
+             "coffeeShop": "19grams Coffee Roasters",
+            "coffeeName": "Kinyovu Honey",
+            "category": "Filter Coffee",
+            "preparation": "AeroPress, French Press, Chemex, Filter Coffee",
+            "region": "Africa",
+            "flavour": "Citric, Sweet and fruity, Floral",
+            "product_link": "https://19grams.coffee/en/coffee/filter/rwanda-kinyovu-honey",
+            "image_small": "https://19grams.coffee/data/drive/2020/02/_cache/de93d566ba6cd4a590a700815a3be573_2be5b9a5d6216d9a166a26f24925aae0.jpg"
+          },
+          {
+             "coffeeShop": "19grams Coffee Roasters",
+            "coffeeName": "Beatriz Giraldo La Esperanza Espresso",
+            "category": "Espresso",
+            "preparation": "AeroPress, Stovetop, Espresso machine",
+            "region": "South America",
+            "flavour": "Sweet and fruity, Floral, Chocolate",
+            "product_link": "https://19grams.coffee/en/coffee/espresso/la-esperanza-espresso",
+            "image_small": "https://19grams.coffee/data/drive/2020/01/_cache/84db76d2547d0b6a9aa72342c14a45b8_3bd96104182a32fff5825d35b8b953e6.jpg"
+          },
+          {
+             "coffeeShop": "19grams Coffee Roasters",
+            "coffeeName": "Yunnan Xingang coffee",
+            "category": "Filter Coffee",
+            "preparation": "AeroPress, French Press, Chemex, Filter Coffee",
+            "region": "Asia",
+            "flavour": "Sweet and fruity, Chocolate",
+            "product_link": "https://19grams.coffee/en/coffee/filter/china-yunnan-xingang",
+            "image_small": "https://19grams.coffee/data/drive/2019/12/_cache/f2f8e32eb29b8504b7272690441cbdd5_6547f171dca793ed30857a33ec645103.jpg"
+          },
+          {
+             "coffeeShop": "19grams Coffee Roasters",
+            "coffeeName": "Nova 'Cafe des Mamas\u2019 Project Coffee",
+            "category": "Filter Coffee",
+            "preparation": "AeroPress, French Press, Chemex, Filter Coffee",
+            "region": "Africa",
+            "flavour": "Citric, Sweet and fruity, Floral",
+            "product_link": "https://19grams.coffee/en/coffee/filter/rwanda-cafe-des-mamas",
+            "image_small": "https://19grams.coffee/data/drive/2019/12/_cache/8f64ccd31236a56459952be86f9f6bc5_54e979f255521c483e02241f6d5ee7da.jpg"
+          },
+          {
+             "coffeeShop": "19grams Coffee Roasters",
+            "coffeeName": "La Escondida Espresso",
+            "category": "Espresso",
+            "preparation": "AeroPress, Stovetop, Espresso machine",
+            "region": "Central America",
+            "flavour": "Sweet and fruity, Chocolate, Nutty",
+            "product_link": "https://19grams.coffee/en/coffee/espresso/nicaragua-la-escondida",
+            "image_small": "https://19grams.coffee/data/drive/2019/12/_cache/8d635aa4e2e75972db5275ac0c733465_46400a53bf2310aca614982886d34ddb.jpg"
+          },
+          {
+             "coffeeShop": "19grams Coffee Roasters",
+            "coffeeName": "Gatomboya AA",
+            "category": "Espresso",
+            "preparation": "AeroPress, Stovetop, Espresso machine",
+            "region": "Africa",
+            "flavour": "Citric, Sweet and fruity, Floral",
+            "product_link": "https://19grams.coffee/en/coffee/espresso/kenya-gatomboya-aa",
+            "image_small": "https://19grams.coffee/data/drive/2020/02/_cache/d5a9534dab90a9392bd412bd866b5563_555cadef13f9d27168ff8016605221d4.jpg"
+          },
+          {
+             "coffeeShop": "19grams Coffee Roasters",
+            "coffeeName": "Guji Uraga",
+            "category": "Filter Coffee",
+            "preparation": "AeroPress, French Press, Chemex, Filter Coffee",
+            "region": "Africa",
+            "flavour": "Citric, Sweet and fruity, Floral",
+            "product_link": "https://19grams.coffee/en/coffee/filter/ethiopia-guji-uraga",
+            "image_small": "https://19grams.coffee/data/drive/2019/11/_cache/0024f93b62e897a0b033838288081044_dadc8fab3cff21e892cbd6dd2573838a.jpg"
+          },
+          {
+             "coffeeShop": "19grams Coffee Roasters",
+            "coffeeName": "",
+            "category": "Espresso",
+            "preparation": "Fully automatic coffee machine, AeroPress, Stovetop",
+            "region": "Central America",
+            "flavour": "Sweet and fruity, Chocolate, Nutty",
+            "product_link": "https://19grams.coffee/en/coffee/espresso/endless-summer-fully-automatic-machine",
+            "image_small": "https://19grams.coffee/data/drive/2019/11/_cache/697dc8f60b26200644cddf4f4f2270c1_43638f4c2eb061b5d61b8f232eb651df.jpg"
+          },
+          {
+             "coffeeShop": "19grams Coffee Roasters",
+            "coffeeName": "Candelilla Estate Espresso",
+            "category": "Espresso",
+            "preparation": "AeroPress, Stovetop, Espresso machine",
+            "region": "Central America",
+            "flavour": "Sweet and fruity, Chocolate, Nutty",
+            "product_link": "https://19grams.coffee/en/coffee/espresso/costa-rica-candelilla-estate",
+            "image_small": "https://19grams.coffee/data/drive/2019/10/_cache/2f5ddf96ba81de46882fe3f1a0f9bd14_c20095bcab13db3f6529bdcd95e2d444.jpg"
+          },
+          {
+             "coffeeShop": "19grams Coffee Roasters",
+            "coffeeName": "Villalobos 'Hacienda Sonora' Espresso",
+            "category": "Espresso",
+            "preparation": "AeroPress, Stovetop, Espresso machine",
+            "region": "Central America",
+            "flavour": "Citric, Sweet and fruity, Chocolate",
+            "product_link": "https://19grams.coffee/en/coffee/espresso/costa-rica-villalobos",
+            "image_small": "https://19grams.coffee/data/drive/2019/06/_cache/3cac2b202231af55250a6a3c6cb389fa_4c9ca7f5336c2350d67c647327c7b749.jpg"
+          },
+          {
+             "coffeeShop": "19grams Coffee Roasters",
+            "coffeeName": "Dark Espresso",
+            "category": "Espresso",
+            "preparation": "Fully automatic coffee machine, Stovetop, Espresso machine",
+            "region": "South America",
+            "flavour": "Sweet and fruity, Strong and spicy, Chocolate",
+            "product_link": "https://19grams.coffee/en/coffee/espresso/italo-disco-fully-automatic",
+            "image_small": "https://19grams.coffee/data/drive/2019/08/_cache/97942e71e120eae42f67103b96743197_4680e49d62e51cf647f38b40fc4e575b.jpg"
+          },
+          {
+             "coffeeShop": "19grams Coffee Roasters",
+            "coffeeName": "Little Flower Espresso",
+            "category": "Espresso",
+            "preparation": "Fully automatic coffee machine, AeroPress, Stovetop, Espresso machine",
+            "region": "Asia",
+            "flavour": "Strong and spicy, Chocolate, Nutty",
+            "product_link": "https://19grams.coffee/en/coffee/espresso/india-little-flower",
+            "image_small": "https://19grams.coffee/data/drive/2019/06/_cache/83f3b9b52c35718ae1a7b66c6e497fa1_9cd9a665a9f6b8e3999b03a376307da2.jpg"
+          },
+          {
+             "coffeeShop": "19grams Coffee Roasters",
+            "coffeeName": "Sumatra Orangutan Coffee",
+            "category": "Espresso",
+            "preparation": "Fully automatic coffee machine, AeroPress, Stovetop, Espresso machine",
+            "region": "Asia",
+            "flavour": "Citric, Strong and spicy, Chocolate, Nutty",
+            "product_link": "https://19grams.coffee/en/coffee/espresso/orang-utan-sumatra",
+            "image_small": "https://19grams.coffee/data/drive/2019/06/_cache/2357f35937f654ac5f0025323abdd451_25c9ff43da2a32e55b18e8a69ad3533a.jpg"
+          },
+          {
+             "coffeeShop": "19grams Coffee Roasters",
+            "coffeeName": "perfect espresso",
+            "category": "Espresso",
+            "preparation": "Fully automatic coffee machine, AeroPress, Stovetop, Espresso machine, French Press",
+            "region": "South America, Central America",
+            "flavour": "Sweet and fruity, Chocolate",
+            "product_link": "https://19grams.coffee/en/coffee/espresso/blend-wild-at-heart",
+            "image_small": "https://19grams.coffee/data/drive/2019/06/_cache/60921035a53a0c62ad2ea42bdb667787_fa48d074710255c19cdc78ffe6c2852f.jpg"
+          },
+          {
+             "coffeeShop": "19grams Coffee Roasters",
+            "coffeeName": "Decaffeinated Espresso",
+            "category": "Decaf",
+            "preparation": "Fully automatic coffee machine, AeroPress, Stovetop, Espresso machine, French Press, Chemex, Filter Coffee",
+            "region": "South America",
+            "flavour": "",
+            "product_link": "https://19grams.coffee/en/coffee/decaf/decaffeinated-colombia-espresso",
+            "image_small": "https://19grams.coffee/data/drive/2019/06/_cache/021f3a7975957405d88cee6565e8a57e_bbabd3455c960fdad0ec15f01899c3e3.jpg"
+          },
+          {
+             "coffeeShop": "19grams Coffee Roasters",
+            "coffeeName": "espresso",
+            "category": "Berlinkaffee",
+            "preparation": "Fully automatic coffee machine, Stovetop, Espresso machine",
+            "region": "South America, Central America, Asia",
+            "flavour": "",
+            "product_link": "https://19grams.coffee/en/coffee/berlinkaffee/organic-espresso-pura-vida",
+            "image_small": "https://19grams.coffee/data/drive/2019/05/_cache/c1c9d6b17f3b4983c79ac2cc4a4ed89f_db0567014ac275dc409a4e7069fd312f.jpg"
+          },
+          {
+             "coffeeShop": "19grams Coffee Roasters",
+            "coffeeName": "espresso",
+            "category": "Berlinkaffee",
+            "preparation": "Fully automatic coffee machine, AeroPress, Stovetop, Espresso machine",
+            "region": "Central America",
+            "flavour": "",
+            "product_link": "https://19grams.coffee/en/coffee/berlinkaffee/pura-vida-no-1-espresso",
+            "image_small": "https://19grams.coffee/data/drive/2019/05/_cache/0e6886390225cfe02d6743150ae4e64a_e68e83e4f1051c4d6d7052dd27423132.jpg"
+          },
+          {
+             "coffeeShop": "19grams Coffee Roasters",
+            "coffeeName": "Organic Espresso",
+            "category": "Berlinkaffee",
+            "preparation": "Fully automatic coffee machine, Stovetop, Espresso machine",
+            "region": "South America, Central America, Africa, Oceania",
+            "flavour": "",
+            "product_link": "https://19grams.coffee/en/coffee/berlinkaffee/organic-espresso",
+            "image_small": "https://19grams.coffee/data/drive/2019/05/_cache/fa448672ac57dec74592fe846d3993d9_ba5f27a7417ab70efaef5cdc718c311c.jpg"
+          },
+          {
+             "coffeeShop": "19grams Coffee Roasters",
+            "coffeeName": "Bio Fair Trade",
+            "category": "Berlinkaffee",
+            "preparation": "Fully automatic coffee machine, AeroPress, Stovetop, Espresso machine, French Press, Chemex, Filter Coffee",
+            "region": "South America",
+            "flavour": "Floral, Strong and spicy, Chocolate",
+            "product_link": "https://19grams.coffee/en/coffee/berlinkaffee/organic-fairtrade",
+            "image_small": "https://19grams.coffee/data/drive/2019/05/_cache/f594cd917bfb4179a5f0265f3d6d6b75_9ee60a8ac316959d4f902e474e947beb.jpg"
+         
+      }
+  ]
+
