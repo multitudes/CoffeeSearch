@@ -33,6 +33,9 @@
 		45835AD1240D6C6D00ACA543 /* CFAlertVC.swift in Sources */ = {isa = PBXBuildFile; fileRef = 45835AD0240D6C6D00ACA543 /* CFAlertVC.swift */; };
 		45835AD3240D780100ACA543 /* UIViewController+Ext.swift in Sources */ = {isa = PBXBuildFile; fileRef = 45835AD2240D780100ACA543 /* UIViewController+Ext.swift */; };
 		459AC6592410E13200F5D39E /* CoffeeInfoVC.swift in Sources */ = {isa = PBXBuildFile; fileRef = 459AC6582410E13200F5D39E /* CoffeeInfoVC.swift */; };
+		45BB332A241253E90019C563 /* CFCoffeeInfoHeaderVC.swift in Sources */ = {isa = PBXBuildFile; fileRef = 45BB3329241253E90019C563 /* CFCoffeeInfoHeaderVC.swift */; };
+		45BB332C241254C60019C563 /* CFSecondaryLabel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 45BB332B241254C60019C563 /* CFSecondaryLabel.swift */; };
+		45BB332E241260B30019C563 /* Constants.swift in Sources */ = {isa = PBXBuildFile; fileRef = 45BB332D241260B30019C563 /* Constants.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -85,6 +88,9 @@
 		45835AD0240D6C6D00ACA543 /* CFAlertVC.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CFAlertVC.swift; sourceTree = "<group>"; };
 		45835AD2240D780100ACA543 /* UIViewController+Ext.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "UIViewController+Ext.swift"; sourceTree = "<group>"; };
 		459AC6582410E13200F5D39E /* CoffeeInfoVC.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CoffeeInfoVC.swift; sourceTree = "<group>"; };
+		45BB3329241253E90019C563 /* CFCoffeeInfoHeaderVC.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CFCoffeeInfoHeaderVC.swift; sourceTree = "<group>"; };
+		45BB332B241254C60019C563 /* CFSecondaryLabel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CFSecondaryLabel.swift; sourceTree = "<group>"; };
+		45BB332D241260B30019C563 /* Constants.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Constants.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -125,6 +131,7 @@
 			children = (
 				45365EDD240E9544004AE1E9 /* ErrorMessage.swift */,
 				456378C4240ECDB20047DE07 /* UIHelper.swift */,
+				45BB332D241260B30019C563 /* Constants.swift */,
 			);
 			path = Utilities;
 			sourceTree = "<group>";
@@ -173,6 +180,7 @@
 			isa = PBXGroup;
 			children = (
 				45835AD0240D6C6D00ACA543 /* CFAlertVC.swift */,
+				45BB3329241253E90019C563 /* CFCoffeeInfoHeaderVC.swift */,
 			);
 			path = ViewControllers;
 			sourceTree = "<group>";
@@ -182,6 +190,7 @@
 			children = (
 				45835ACC240D69FD00ACA543 /* CFTitleLabel.swift */,
 				45835ACE240D6B7C00ACA543 /* CFBodyLabel.swift */,
+				45BB332B241254C60019C563 /* CFSecondaryLabel.swift */,
 			);
 			path = Labels;
 			sourceTree = "<group>";
@@ -427,6 +436,7 @@
 			files = (
 				45835AC7240D059600ACA543 /* CFButton.swift in Sources */,
 				45835ACF240D6B7C00ACA543 /* CFBodyLabel.swift in Sources */,
+				45BB332A241253E90019C563 /* CFCoffeeInfoHeaderVC.swift in Sources */,
 				459AC6592410E13200F5D39E /* CoffeeInfoVC.swift in Sources */,
 				45835AD3240D780100ACA543 /* UIViewController+Ext.swift in Sources */,
 				45365EE1240EA678004AE1E9 /* CoffeeCell.swift in Sources */,
@@ -436,6 +446,7 @@
 				45835ACB240D616700ACA543 /* CoffeeListVC.swift in Sources */,
 				45835AC3240CFC0900ACA543 /* SearchVC.swift in Sources */,
 				45365EDE240E9544004AE1E9 /* ErrorMessage.swift in Sources */,
+				45BB332C241254C60019C563 /* CFSecondaryLabel.swift in Sources */,
 				45835A9A240CF46C00ACA543 /* CoffeeFollowers.xcdatamodeld in Sources */,
 				45835AD1240D6C6D00ACA543 /* CFAlertVC.swift in Sources */,
 				45365EDB240E5622004AE1E9 /* NetworkManager.swift in Sources */,
@@ -446,6 +457,7 @@
 				454C279E240FD4B300CF5C78 /* CFEmptyStateView.swift in Sources */,
 				45835A92240CF46C00ACA543 /* SceneDelegate.swift in Sources */,
 				456378C1240EB0C10047DE07 /* Avatar.swift in Sources */,
+				45BB332E241260B30019C563 /* Constants.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
